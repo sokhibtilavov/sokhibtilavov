@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sohib 👋
 
-<!--
-**sokhibtilavov/sokhibtilavov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer → Future Full Stack Engineer  
+I love building websites, learning new technologies and improving every day.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- HTML, CSS, JavaScript  
+- React (learning)  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 My Goals
+- Become a strong Full Stack developer  
+- Study Computer Science abroad  
+- Build real projects for my portfolio  
+
+## 📂 My Projects
+Coming soon...
+
+---
+
+⭐ I’m always learning. More projects will appear here soon!
